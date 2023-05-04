@@ -15,7 +15,7 @@ const Navigation = () => {
             <Link to="/contato">Contato</Link>
           </li>
           <li>
-            <Link to="/matheus">Matheus</Link>
+            <Link to="/alunos">Alunos</Link>
           </li>
         </ul>
       </nav>
